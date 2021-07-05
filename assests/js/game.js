@@ -165,6 +165,8 @@ var shop = function() {
   }
 };
 
+//Game Information
+
 // player information
 var playerInfo = {
   name: window.prompt("What is your robot's name?"),
